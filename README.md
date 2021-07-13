@@ -69,4 +69,4 @@ I'm also enjoying to make accessible websites, so this is another topic that I w
 
 ## Acknowledgments
 
-Thanks to the people from Kevin Kewell's community, such an amazing and helpful community.
+Thanks to the people from Kevin Powell's community, such an amazing and helpful community.
